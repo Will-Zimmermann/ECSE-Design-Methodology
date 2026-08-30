@@ -1,14 +1,14 @@
 # Spring 2025 ECSE Design Methodology Project
 
-Below I will showcase by far the most challenging project I have ever worked on. The course required my 4 randomly assigned teammates and I to complete weekly progress/design deliverables with only little explanation and rigorous documentation for each phase of our design. For The design itself, it could only consist of preapproved parts and be powered by a 24V DC supply.
+Below I will showcase by far the most challenging project I have ever worked on. The course required my 4 randomly assigned teammates and I to complete weekly progress/design deliverables with only little explanation and rigorous documentation for each phase of our design. For the design itself, it could only consist of preapproved parts and be powered by a 24V DC supply.
 
-I refer to myself as a "Lead Designer" on this project and I mean it. Between me and my goat Hudson Bowen, we took the lead on designing, programming, and testing every single one of individual features. Specifically, I led the Voltmeter, DC Reference, Frequency Measurement, Rotary Encoder, and programming the Square Wave. 
+I refer to myself as a "Lead Designer" on this project and I mean it. Between me and one other teammate, we took the lead on designing, programming, and testing every single one of the individual features. Specifically, I led the Voltmeter, DC Reference, Frequency Measurement, Rotary Encoder, and programming the Square Wave. 
 
-Due to the course repeating projects every 3 years, I can not go into the exciting technical details of our design. However, I can demostrate what our glorious creation was capable of. 
+Due to the course repeating projects every 3 years, I cannot go into the exciting technical details of our design. However, I can demostrate what our glorious creation was capable of. 
 
 <img src="Pictures/FullShot1.jpeg" alt="Full View" width="">
 
-### To recieve an A in the course, our final design needed to include
+### To receive an A in the course, our final design needed to include
 ----
  - Controllable LCD UI
  - Ohmmeter
@@ -26,7 +26,7 @@ For this project, our UI was displayed on an LCD screen and controlled by a KY-0
 Each function of the workbench utilized its specifically labeled banana jack or female jumper wire connection. 
 
 ## Ohmmeter
-The Ohmeter was required to read resistances between 500 and 10k Ohms. An accuracy reading also needed to tested and displayed on the UI. 
+The Ohmmeter was required to read resistances between 500 and 10k Ohms. An accuracy reading also needed to be tested and displayed on the UI. 
 
 <img src="Pictures/OhmIN.jpeg" alt="Ohmmeter Input" style="width: 70%; display: block; margin: 0 auto;">
 <img src="Pictures/OhmUI.jpeg" alt="Ohmmeter Reading" style="width: 70%; display: block; margin: 0 auto;">
